@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\bin\Debug\net8.0\AtualizarPreçodeProduto.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\bin\Debug\net8.0\AtualizarPreçodeProduto.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\bin\Debug\net8.0\AtualizarPreçodeProduto.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\bin\Debug\net8.0\AtualizarPreçodeProduto.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\bin\Debug\net8.0\AtualizarPreçodeProduto.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\obj\Debug\net8.0\AtualizarPreçodeProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\obj\Debug\net8.0\AtualizarPreçodeProduto.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\obj\Debug\net8.0\AtualizarPreçodeProduto.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\obj\Debug\net8.0\AtualizarPreçodeProduto.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\obj\Debug\net8.0\AtualizarPreçodeProduto.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\obj\Debug\net8.0\refint\AtualizarPreçodeProduto.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\obj\Debug\net8.0\AtualizarPreçodeProduto.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\obj\Debug\net8.0\AtualizarPreçodeProduto.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\AtualizarPreçodeProduto\obj\Debug\net8.0\ref\AtualizarPreçodeProduto.dll

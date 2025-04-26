@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\bin\Debug\net8.0\ClasseComputador.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\bin\Debug\net8.0\ClasseComputador.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\bin\Debug\net8.0\ClasseComputador.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\bin\Debug\net8.0\ClasseComputador.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\bin\Debug\net8.0\ClasseComputador.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\obj\Debug\net8.0\ClasseComputador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\obj\Debug\net8.0\ClasseComputador.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\obj\Debug\net8.0\ClasseComputador.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\obj\Debug\net8.0\ClasseComputador.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\obj\Debug\net8.0\ClasseComputador.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\obj\Debug\net8.0\refint\ClasseComputador.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\obj\Debug\net8.0\ClasseComputador.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\obj\Debug\net8.0\ClasseComputador.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseComputador\obj\Debug\net8.0\ref\ClasseComputador.dll

@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\bin\Debug\net8.0\CadastroDeComputadoresComMenu.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\bin\Debug\net8.0\CadastroDeComputadoresComMenu.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\bin\Debug\net8.0\CadastroDeComputadoresComMenu.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\bin\Debug\net8.0\CadastroDeComputadoresComMenu.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\bin\Debug\net8.0\CadastroDeComputadoresComMenu.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\obj\Debug\net8.0\CadastroDeComputadoresComMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\obj\Debug\net8.0\CadastroDeComputadoresComMenu.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\obj\Debug\net8.0\CadastroDeComputadoresComMenu.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\obj\Debug\net8.0\CadastroDeComputadoresComMenu.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\obj\Debug\net8.0\CadastroDeComputadoresComMenu.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\obj\Debug\net8.0\refint\CadastroDeComputadoresComMenu.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\obj\Debug\net8.0\CadastroDeComputadoresComMenu.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\obj\Debug\net8.0\CadastroDeComputadoresComMenu.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeComputadoresComMenu\obj\Debug\net8.0\ref\CadastroDeComputadoresComMenu.dll

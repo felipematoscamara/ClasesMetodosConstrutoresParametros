@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\bin\Debug\net8.0\CálculodeIMCeClassificação.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\bin\Debug\net8.0\CálculodeIMCeClassificação.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\bin\Debug\net8.0\CálculodeIMCeClassificação.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\bin\Debug\net8.0\CálculodeIMCeClassificação.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\bin\Debug\net8.0\CálculodeIMCeClassificação.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\obj\Debug\net8.0\CálculodeIMCeClassificação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\obj\Debug\net8.0\CálculodeIMCeClassificação.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\obj\Debug\net8.0\CálculodeIMCeClassificação.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\obj\Debug\net8.0\CálculodeIMCeClassificação.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\obj\Debug\net8.0\CálculodeIMCeClassificação.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\obj\Debug\net8.0\refint\CálculodeIMCeClassificação.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\obj\Debug\net8.0\CálculodeIMCeClassificação.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\obj\Debug\net8.0\CálculodeIMCeClassificação.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeIMCeClassificação\obj\Debug\net8.0\ref\CálculodeIMCeClassificação.dll

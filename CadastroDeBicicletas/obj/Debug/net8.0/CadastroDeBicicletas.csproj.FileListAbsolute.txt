@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\bin\Debug\net8.0\CadastroDeBicicletas.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\bin\Debug\net8.0\CadastroDeBicicletas.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\bin\Debug\net8.0\CadastroDeBicicletas.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\bin\Debug\net8.0\CadastroDeBicicletas.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\bin\Debug\net8.0\CadastroDeBicicletas.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\obj\Debug\net8.0\CadastroDeBicicletas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\obj\Debug\net8.0\CadastroDeBicicletas.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\obj\Debug\net8.0\CadastroDeBicicletas.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\obj\Debug\net8.0\CadastroDeBicicletas.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\obj\Debug\net8.0\CadastroDeBicicletas.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\obj\Debug\net8.0\refint\CadastroDeBicicletas.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\obj\Debug\net8.0\CadastroDeBicicletas.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\obj\Debug\net8.0\CadastroDeBicicletas.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastroDeBicicletas\obj\Debug\net8.0\ref\CadastroDeBicicletas.dll

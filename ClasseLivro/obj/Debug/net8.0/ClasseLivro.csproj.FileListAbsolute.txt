@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\bin\Debug\net8.0\ClasseLivro.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\bin\Debug\net8.0\ClasseLivro.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\bin\Debug\net8.0\ClasseLivro.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\bin\Debug\net8.0\ClasseLivro.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\bin\Debug\net8.0\ClasseLivro.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\obj\Debug\net8.0\ClasseLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\obj\Debug\net8.0\ClasseLivro.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\obj\Debug\net8.0\ClasseLivro.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\obj\Debug\net8.0\ClasseLivro.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\obj\Debug\net8.0\ClasseLivro.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\obj\Debug\net8.0\refint\ClasseLivro.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\obj\Debug\net8.0\ClasseLivro.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\obj\Debug\net8.0\ClasseLivro.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ClasseLivro\obj\Debug\net8.0\ref\ClasseLivro.dll

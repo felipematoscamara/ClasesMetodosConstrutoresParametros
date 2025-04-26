@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\bin\Debug\net8.0\Dobro+TriploComSobrecarga.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\bin\Debug\net8.0\Dobro+TriploComSobrecarga.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\bin\Debug\net8.0\Dobro+TriploComSobrecarga.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\bin\Debug\net8.0\Dobro+TriploComSobrecarga.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\bin\Debug\net8.0\Dobro+TriploComSobrecarga.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\obj\Debug\net8.0\Dobro+TriploComSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\obj\Debug\net8.0\Dobro+TriploComSobrecarga.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\obj\Debug\net8.0\Dobro+TriploComSobrecarga.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\obj\Debug\net8.0\Dobro+TriploComSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\obj\Debug\net8.0\Dobro+TriploComSobrecarga.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\obj\Debug\net8.0\refint\Dobro+TriploComSobrecarga.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\obj\Debug\net8.0\Dobro+TriploComSobrecarga.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\obj\Debug\net8.0\Dobro+TriploComSobrecarga.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\Dobro+TriploComSobrecarga\obj\Debug\net8.0\ref\Dobro+TriploComSobrecarga.dll

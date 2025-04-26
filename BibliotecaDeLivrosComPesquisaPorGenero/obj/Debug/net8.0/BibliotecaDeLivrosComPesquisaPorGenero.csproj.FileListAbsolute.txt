@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\bin\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\bin\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\bin\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\bin\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\bin\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\obj\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\obj\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\obj\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\obj\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\obj\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\obj\Debug\net8.0\refint\BibliotecaDeLivrosComPesquisaPorGenero.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\obj\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\obj\Debug\net8.0\BibliotecaDeLivrosComPesquisaPorGenero.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\BibliotecaDeLivrosComPesquisaPorGenero\obj\Debug\net8.0\ref\BibliotecaDeLivrosComPesquisaPorGenero.dll

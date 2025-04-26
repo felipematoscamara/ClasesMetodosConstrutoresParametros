@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\bin\Debug\net8.0\CálculodeMédiaFinaldeAluno.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\bin\Debug\net8.0\CálculodeMédiaFinaldeAluno.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\bin\Debug\net8.0\CálculodeMédiaFinaldeAluno.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\bin\Debug\net8.0\CálculodeMédiaFinaldeAluno.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\bin\Debug\net8.0\CálculodeMédiaFinaldeAluno.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\obj\Debug\net8.0\CálculodeMédiaFinaldeAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\obj\Debug\net8.0\CálculodeMédiaFinaldeAluno.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\obj\Debug\net8.0\CálculodeMédiaFinaldeAluno.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\obj\Debug\net8.0\CálculodeMédiaFinaldeAluno.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\obj\Debug\net8.0\CálculodeMédiaFinaldeAluno.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\obj\Debug\net8.0\refint\CálculodeMédiaFinaldeAluno.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\obj\Debug\net8.0\CálculodeMédiaFinaldeAluno.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\obj\Debug\net8.0\CálculodeMédiaFinaldeAluno.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CálculodeMédiaFinaldeAluno\obj\Debug\net8.0\ref\CálculodeMédiaFinaldeAluno.dll

@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\bin\Debug\net8.0\SobrecarregandoSoma.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\bin\Debug\net8.0\SobrecarregandoSoma.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\bin\Debug\net8.0\SobrecarregandoSoma.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\bin\Debug\net8.0\SobrecarregandoSoma.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\bin\Debug\net8.0\SobrecarregandoSoma.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\obj\Debug\net8.0\SobrecarregandoSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\obj\Debug\net8.0\SobrecarregandoSoma.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\obj\Debug\net8.0\SobrecarregandoSoma.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\obj\Debug\net8.0\SobrecarregandoSoma.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\obj\Debug\net8.0\SobrecarregandoSoma.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\obj\Debug\net8.0\refint\SobrecarregandoSoma.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\obj\Debug\net8.0\SobrecarregandoSoma.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\obj\Debug\net8.0\SobrecarregandoSoma.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\SobrecarregandoSoma\obj\Debug\net8.0\ref\SobrecarregandoSoma.dll

@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\bin\Debug\net8.0\ConversãodeTemperatura.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\bin\Debug\net8.0\ConversãodeTemperatura.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\bin\Debug\net8.0\ConversãodeTemperatura.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\bin\Debug\net8.0\ConversãodeTemperatura.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\bin\Debug\net8.0\ConversãodeTemperatura.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\obj\Debug\net8.0\ConversãodeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\obj\Debug\net8.0\ConversãodeTemperatura.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\obj\Debug\net8.0\ConversãodeTemperatura.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\obj\Debug\net8.0\ConversãodeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\obj\Debug\net8.0\ConversãodeTemperatura.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\obj\Debug\net8.0\refint\ConversãodeTemperatura.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\obj\Debug\net8.0\ConversãodeTemperatura.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\obj\Debug\net8.0\ConversãodeTemperatura.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ConversãodeTemperatura\obj\Debug\net8.0\ref\ConversãodeTemperatura.dll

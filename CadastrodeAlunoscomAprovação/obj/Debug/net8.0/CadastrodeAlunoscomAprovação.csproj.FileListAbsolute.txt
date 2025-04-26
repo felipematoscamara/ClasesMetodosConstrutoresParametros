@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\bin\Debug\net8.0\CadastrodeAlunoscomAprovação.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\bin\Debug\net8.0\CadastrodeAlunoscomAprovação.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\bin\Debug\net8.0\CadastrodeAlunoscomAprovação.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\bin\Debug\net8.0\CadastrodeAlunoscomAprovação.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\bin\Debug\net8.0\CadastrodeAlunoscomAprovação.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\obj\Debug\net8.0\CadastrodeAlunoscomAprovação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\obj\Debug\net8.0\CadastrodeAlunoscomAprovação.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\obj\Debug\net8.0\CadastrodeAlunoscomAprovação.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\obj\Debug\net8.0\CadastrodeAlunoscomAprovação.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\obj\Debug\net8.0\CadastrodeAlunoscomAprovação.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\obj\Debug\net8.0\refint\CadastrodeAlunoscomAprovação.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\obj\Debug\net8.0\CadastrodeAlunoscomAprovação.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\obj\Debug\net8.0\CadastrodeAlunoscomAprovação.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\CadastrodeAlunoscomAprovação\obj\Debug\net8.0\ref\CadastrodeAlunoscomAprovação.dll

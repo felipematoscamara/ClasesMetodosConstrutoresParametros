@@ -1,0 +1,14 @@
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\bin\Debug\net8.0\ContadorDeCliqueComRef.exe
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\bin\Debug\net8.0\ContadorDeCliqueComRef.deps.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\bin\Debug\net8.0\ContadorDeCliqueComRef.runtimeconfig.json
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\bin\Debug\net8.0\ContadorDeCliqueComRef.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\bin\Debug\net8.0\ContadorDeCliqueComRef.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\obj\Debug\net8.0\ContadorDeCliqueComRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\obj\Debug\net8.0\ContadorDeCliqueComRef.AssemblyInfoInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\obj\Debug\net8.0\ContadorDeCliqueComRef.AssemblyInfo.cs
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\obj\Debug\net8.0\ContadorDeCliqueComRef.csproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\obj\Debug\net8.0\ContadorDeCliqueComRef.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\obj\Debug\net8.0\refint\ContadorDeCliqueComRef.dll
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\obj\Debug\net8.0\ContadorDeCliqueComRef.pdb
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\obj\Debug\net8.0\ContadorDeCliqueComRef.genruntimeconfig.cache
+C:\Users\matos\OneDrive\Desktop\Ciência da Computação\C#\ClasesMetodosConstrutoresParametros\ContadorDeCliqueComRef\obj\Debug\net8.0\ref\ContadorDeCliqueComRef.dll
